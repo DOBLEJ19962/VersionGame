@@ -1,7 +1,7 @@
 {
-  "minVersion": 3,
-  "latestVersion": 4,
-  "message": "Your build has expired. Download the new version.",
-  "downloadUrl": "https://google.com",
-  "discordUrl": "https://discord.gg/test"
+  "minVersion": "1.1",
+  "latestVersion": "1.1",
+  "message": "This version is expired. Please download the new one.",
+  "downloadUrl": "https://tulink.com/download",
+  "discordUrl": "https://discord.gg/tuservidor"
 }
