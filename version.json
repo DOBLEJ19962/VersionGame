@@ -1,0 +1,7 @@
+{
+  "minVersion": 1,
+  "latestVersion": 1,
+  "message": "Your build has expired. Download the new version.",
+  "downloadUrl": "https://google.com",
+  "discordUrl": "https://discord.gg/test"
+}
